@@ -1,0 +1,7 @@
+build/
+*.o
+*.exe
+*.swap
+main
+.vscode
+.DS_Store
